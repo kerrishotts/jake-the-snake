@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #303030;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+div canvas {
+    margin: auto auto;
+    flex: 0 0 auto;
+}
+
+div input {
+    flex: 0 0 auto;
+}

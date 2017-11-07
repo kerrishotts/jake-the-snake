@@ -1,0 +1,31 @@
+{
+  "name": "jake-the-snake",
+  "version": "1.0.0",
+  "description": "Jake the Snake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrishotts/jake-the-snake.git"
+  },
+  "keywords": [
+    "snake",
+    "javascript",
+    "educational",
+    "learn",
+    "game"
+  ],
+  "author": "Kerri Shotts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerrishotts/jake-the-snake/issues"
+  },
+  "homepage": "https://github.com/kerrishotts/jake-the-snake#readme",
+  "devDependencies": {
+    "eslint": "^4.10.0",
+    "http-server": "^0.10.0"
+  }
+}
